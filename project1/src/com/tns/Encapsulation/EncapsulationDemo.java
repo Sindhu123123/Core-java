@@ -6,7 +6,7 @@ public class EncapsulationDemo {
 		// TODO Auto-generated method stub
 		Encapsulation obj = new Encapsulation();
 		obj.serialno=1;
-		obj.name="anu";
+		obj.name="SINDHU";
 		obj.age=20;
 		obj.show();
 		
